@@ -2,6 +2,18 @@
 
 A React-based application that allows users to search for movies using the OMDB API and watch their trailers via YouTube API integration.
 
+
+
+
+
+
+
+
+hi 
+
+
+
+
 ## Features
 
 - 🔍 Search for movies by title
